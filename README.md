@@ -8,8 +8,8 @@ The script will:
 * save a log in a separate file “log.txt” in the “transformed” folder (and print it in the terminal)
 
 Prerequisites:
-numpy
-pandas
+- numpy
+- pandas
 
 Instructions:
 1.	First of all, we need to extract each sheet from the master loadsheet so we have separate excel file for each building.
